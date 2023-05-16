@@ -1,6 +1,5 @@
 
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/felixlvu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/félix-schrynemaekers-7ba783267) 
-[Mail](https://img.shields.io/badge/Outlook-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/félix-schrynemaekers-7ba783267) 
 
 ---
 <p align='center'>
