@@ -1,5 +1,5 @@
 
-.[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/felixlvu)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/felixlvu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/félix-schrynemaekers-7ba783267) 
 ![Github](https://img.shields.io/badge/felix.schrynemakers@epitech.eu-%230077B5.svg?logo=Gmail&logoColor=white)
 
