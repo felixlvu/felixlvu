@@ -24,8 +24,3 @@
 
 ---
 
-
-
-<p align='center'>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=felixlvu&theme=dark&hide_border=falset">
-</p>
